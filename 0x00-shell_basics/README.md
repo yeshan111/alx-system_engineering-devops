@@ -6,3 +6,4 @@
 "5-listfilesdigitonly" displays current directory contents with long format, user and group IDs and hiddens
 "6-firstdirectory" creates a directory named my_first_directory in the /tmp/directory
 "7-movethatfile" moves file betty from /tmp/ to /tmp/my_first_directory
+"8-firstdelete" deletes the file betty
