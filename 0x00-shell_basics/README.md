@@ -14,3 +14,4 @@
 "13-symbolic_link" creates a symbolic link named __ls__
 "14-copy_html" copies .html files
 "100-lets_move" moves all files starting with upper case tp /tmp/u
+"101-clean_emacs" deletes files ending in ~
