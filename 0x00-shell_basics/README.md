@@ -2,3 +2,4 @@
 "1-listit" displays the contents list of your current directory
 "2-bring_me_home" changes working directory to user's home directory
 "3-listfiles" display's current directory in a long format
+"4-listmorefiles" displays current directory contents, including hidden files (starting with .). Use the long format
