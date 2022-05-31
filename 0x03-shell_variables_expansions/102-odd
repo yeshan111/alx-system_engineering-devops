@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | grep [13++]
+paste -d" " - - | cut -d " " -f 1
